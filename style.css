@@ -31,7 +31,7 @@ body{
 a{text-decoration:none;color:inherit}
 img{max-width:100%;display:block}
 .container{width:min(var(--max), calc(100% - 32px));margin:auto}
-.section{padding:84px 0}
+.section{padding:24px 0}
 .section-sm{padding:58px 0}
 .center{text-align:center}
 
