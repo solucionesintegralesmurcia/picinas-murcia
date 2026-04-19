@@ -90,7 +90,7 @@ img{max-width:100%;display:block}
 .hero{
   position:relative;
   overflow:hidden;
-  padding:92px 0 76px;
+  padding:92px 0 20px;
 }
 .hero-grid{
   display:grid;
